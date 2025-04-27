@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxScripts949/BGSI/refs/heads/main/GUI"))()
+
 loadstring(game:HttpGet("http://vpaste.net/RXsNs"))()
